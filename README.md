@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 Portfolio Online  
-Dai un'occhiata al mio portfolio su [qui](portfolio-base-qqz3.vercel.app)
+Dai un'occhiata al mio portfolio su [qui](https://portfolio-base-qqz3.vercel.app)
 
 ---
 
