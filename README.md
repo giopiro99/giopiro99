@@ -2,7 +2,7 @@
 
 🎓 Studente alla [42 Firenze](https://42firenze.it/)  
 🎯 Mastery: Intelligenza Artificiale & Cybersecurity (in arrivo)  
-💡 Appassionato di algoritmi, C, bash scripting e progetti AI applicati alla finanza
+💡 Appassionato di algoritmi, C, bash scripting e AI
 
 ---
 
@@ -31,7 +31,7 @@ Dai un'occhiata al mio portfolio su [qui](https://portfolio-base-qqz3.vercel.app
 
 🎓 Student at [42 Firenze](https://42firenze.it/)  
 🎯 Mastery tracks: Artificial Intelligence & Cybersecurity (upcoming)  
-💡 Passionate about algorithms, C, bash scripting, and AI projects applied to finance
+💡 Passionate about algorithms, C, bash scripting, and AI
 
 ---
 
