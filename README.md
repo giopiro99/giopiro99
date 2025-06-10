@@ -9,7 +9,7 @@
 ## 🚀 Progetti principali
 
 🔹 [Minishell](https://github.com/giopiro99/minishell) – Mini replica di bash con parsing ed esecuzione di comandi  
-🔹 [Philosophers](https://github.com/giopiro99/Philosophers) – Simulazione dei filosofi con thread e semafori  
+🔹 [Philosophers](https://github.com/giopiro99/Philosophers) – Simulazione dei filosofi con thread e processi 
 🔹 [Push_swap](https://github.com/giopiro99/pushswap) – Algoritmo di ordinamento con numero minimo di mosse  
 🔹 [So_long](https://github.com/giopiro99/so_long) – Mini videogioco 2D in C con grafica semplice  
 
@@ -38,7 +38,7 @@ Dai un'occhiata al mio portfolio su [qui](https://portfolio-base-qqz3.vercel.app
 ## 🚀 Highlight Projects
 
 🔹 [Minishell](https://github.com/giopiro99/minishell) – A mini replica of bash with command parsing and execution  
-🔹 [Philosophers](https://github.com/giopiro99/Philosophers) – Dining philosophers simulation using threads and semaphores  
+🔹 [Philosophers](https://github.com/giopiro99/Philosophers) – Dining philosophers simulation using threads and process 
 🔹 [Push_swap](https://github.com/giopiro99/pushswap) – Sorting algorithm with a minimal set of moves  
 🔹 [So_long](https://github.com/giopiro99/so_long) – A small 2D game in C with basic graphics  
 
