@@ -22,11 +22,6 @@
 
 ---
 
-## 🌐 Portfolio Online  
-Dai un'occhiata al mio portfolio su [qui](https://portfolio-base-qqz3.vercel.app)
-
----
-
 # 👋 Hi, I'm Giovanni Pirozzi (@giopiro99)
 
 🎓 Student at [42 Firenze](https://42firenze.it/)  
@@ -50,9 +45,6 @@ Dai un'occhiata al mio portfolio su [qui](https://portfolio-base-qqz3.vercel.app
 💼 LinkedIn: [linkedin.com/in/giovannipirozzi99](https://www.linkedin.com/in/giovannipirozzi99)
 
 ---
-
-## 🌐 Online Portfolio  
-Feel free to check out my portfolio [here](https://portfolio-base-qqz3.vercel.app)
 
 
 
