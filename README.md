@@ -10,6 +10,7 @@
 
 🔹 [Minishell](https://github.com/giopiro99/minishell) – Mini replica di bash con parsing ed esecuzione di comandi  
 🔹 [Philosophers](https://github.com/giopiro99/Philosophers) – Simulazione dei filosofi con thread e processi 
+
 🔹 [Push_swap](https://github.com/giopiro99/pushswap) – Algoritmo di ordinamento con numero minimo di mosse  
 🔹 [So_long](https://github.com/giopiro99/so_long) – Mini videogioco 2D in C con grafica semplice  
 
