@@ -34,13 +34,13 @@ Here is an overview of my progress and key projects completed during the 42 Comm
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Cub3D](https://github.com/giopiro99/cub3d)** | A raycasting engine inspired by Wolfenstein 3D. | C, Raycasting, Math |
-| **[CPP Modules](https://github.com/giopiro99/CPP-Modules)** | Deep dive into Object-Oriented Programming with C++. | C++, OOP |
+| **[CPP Modules](https://github.com/giopiro99/CPP_Modules)** | Deep dive into Object-Oriented Programming with C++. | C++, OOP |
 | **[NetPractice](https://github.com/giopiro99/NetPractice)** | “Understanding networks is understanding how everything connects.” |
 
 ### 🟠 Rank 5
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[CPP Modules](https://github.com/giopiro99/CPP-Modules)** | Deep dive into Object-Oriented Programming with C++. | C++, OOP |
+| **[CPP Modules](https://github.com/giopiro99/CPP_Modules)** | Deep dive into Object-Oriented Programming with C++. | C++, OOP |
 | **[ft_irc](https://github.com/giopiro99/ft_irc)** | Implementation of a fully functional Internet Relay Chat (IRC) server | C++, Network, Sockets |
 | **[inception](https://github.com/giopiro99/inception)** | System administration using Docker to orchestrate multiple services | Docker, Bash, System Admin |
 
