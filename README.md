@@ -39,7 +39,7 @@ Here is an overview of my progress and key projects completed during the 42 Comm
 | **[CPP Modules](https://github.com/giopiro99/CPP_Modules)** | Deep dive into Object-Oriented Programming with C++. | C++, OOP |
 | **[NetPractice](https://github.com/giopiro99/NetPractice)** | “Understanding networks is understanding how everything connects.” |
 
-### 🟠 Rank 5
+### 🟡 Rank 5
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[inception](https://github.com/giopiro99/inception)** | System administration using Docker to orchestrate multiple services | Docker, Bash, System Admin |
