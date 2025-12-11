@@ -49,6 +49,10 @@ Here is an overview of my progress and key projects completed during the 42 Comm
 
 ---
 
+## Other projects (coming soon)
+
+---
+
 ## 📫 Contacts
 
 📧 Email: [giovannipirozzi12345@gmail.com](mailto:giovannipirozzi12345@gmail.com)
