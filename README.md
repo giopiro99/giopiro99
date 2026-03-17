@@ -46,11 +46,10 @@ Here is an overview of my progress and key projects completed during the 42 Comm
 | **[CPP Modules](https://github.com/giopiro99/CPP_Modules)** | Deep dive into Object-Oriented Programming with C++. | C++, OOP |
 | **[ft_irc](https://github.com/giopiro99/ft_irc)** | Implementation of a fully functional Internet Relay Chat (IRC) server | C++, Network, Sockets |
 
-
 ### 🟡 Rank 6
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Transcendence]([https://github.com/giopiro99/inception](https://github.com/giopiro99/nestjs-realtime-game-engine))** | Typescript, NestJs, WebSockets |
+| **[Transcendence](https://github.com/giopiro99/nestjs-realtime-game-engine)** | Game loop, websockets, machine states, optimization | Typescript, NestJs, WebSockets |
 ---
 
 ## Other projects (coming soon)
