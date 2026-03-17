@@ -47,6 +47,10 @@ Here is an overview of my progress and key projects completed during the 42 Comm
 | **[ft_irc](https://github.com/giopiro99/ft_irc)** | Implementation of a fully functional Internet Relay Chat (IRC) server | C++, Network, Sockets |
 
 
+### 🟡 Rank 6
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Transcendence]([https://github.com/giopiro99/inception](https://github.com/giopiro99/nestjs-realtime-game-engine))** | Typescript, NestJs, WebSockets |
 ---
 
 ## Other projects (coming soon)
