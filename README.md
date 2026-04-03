@@ -2,7 +2,7 @@
 
 🎓 Student at [42 Firenze](https://42firenze.it/)
 
-🎯 Mastery tracks: Artificial Intelligence & Cybersecurity (upcoming)
+🎯 Mastery tracks: Kernel & Cybersecurity (upcoming)
 
 💡 Passionate about algorithms, C programming, bash scripting, and AI.
 
