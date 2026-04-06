@@ -63,7 +63,10 @@ Here is an overview of my progress and key projects completed during the 42 Comm
 | **[Transcendence](https://github.com/giopiro99/nestjs-realtime-game-engine)** | Game loop, websockets, machine states, optimization | Typescript, NestJs, WebSockets |
 ---
 
-## Other projects (coming soon)
+## Other projects
+
+Dining Philosophers (Hardware & RTOS) | C, FreeRTOS, ESP32, GPIO
+In progress
 
 ---
 
