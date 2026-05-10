@@ -64,10 +64,10 @@ Here is an overview of my progress and key projects completed during the 42 Comm
 ---
 
 ## Other projects
-
-Dining Philosophers (Hardware & RTOS) | C, FreeRTOS, ESP32, GPIO
-In progress
-
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Philosophers-Hardware](https://github.com/giopiro99/philosophers-hardware)** | Dining Philosophers (Hardware & RTOS) | C, FreeRTOS, ESP32, GPIO
+| **[Mini Sensor QT](https://github.com/giopiro99/philosophers-hardware)** | Mini Sensor modern C++ | C++, QT
 ---
 
 ## 📫 Contacts
