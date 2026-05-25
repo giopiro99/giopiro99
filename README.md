@@ -6,7 +6,7 @@ Mastery tracks: Kernel & Cybersecurity (upcoming)
 
 Currently Web Developer at AND SRL
 
-Passionate about algorithms, C programming, bash scripting, and AI.
+Passionate about C/C++ programming, back-end, infrastructures.
 
 ---
 
