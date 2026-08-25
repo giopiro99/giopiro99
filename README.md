@@ -23,7 +23,7 @@ Here is an overview of my current specialization projects focusing on low-level 
 | **[Custom Memory Allocator](https://github.com/giopiro99/malloc)** | A custom dynamic memory allocator (`malloc`, `free`, `realloc`) interfacing directly with Linux kernel syscalls (`mmap`, `munmap`). | C, Kernel API, Memory Management |  WIP |
 | **[Inception of Things](https://github.com/giopiro99/iot/tree/giovanni)** | Kubernetes-lite (K3s/K3d) cluster with automated Vagrant provisioning, Argo CD (GitOps), and GitLab integration. | K3s, Argo CD, Vagrant, DevOps | WIP |
 
-## ⚙️ Hardware & Embedded Projects
+## Hardware & Embedded Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Philosophers-Hardware](https://github.com/giopiro99/philosophers-hardware)** | Dining Philosophers problem solved physically on an ESP32 (dual-core). Preventions of deadlocks using FreeRTOS Mutexes. | C, FreeRTOS, ESP32, GPIO |
