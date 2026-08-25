@@ -60,7 +60,7 @@ Here is an overview of my progress and key projects completed during the 42 Comm
 ### Rank 6
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Transcendence](https://github.com/giopiro99/nestjs-realtime-game-engine)** | Game loop, websockets, machine states, optimization | Typescript, NestJs, WebSockets |
+| **[Transcendence](https://github.com/redei-ma/ft_transcendence)** | Game loop, websockets, machine states, optimization | Typescript, NestJs, WebSockets |
 ---
 
 ## Other projects
