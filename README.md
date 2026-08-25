@@ -37,7 +37,7 @@ Here is an overview of my progress and key projects completed during the 42 Comm
 ### Rank 6
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Transcendence](https://github.com/redei-ma/ft_transcendence)** | Game loop, websockets, machine states, optimization | Typescript, NestJs, WebSockets |
+| **[Transcendence](https://github.com/redei-ma/ft_transcendence/tree/main/game-service/src/modules/game)** | Game loop, websockets, machine states, optimization | Typescript, NestJs, WebSockets |
 
 ### Rank 5
 | Project | Description | Tech Stack |
