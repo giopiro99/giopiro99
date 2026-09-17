@@ -23,12 +23,17 @@ Here is an overview of my current specialization projects focusing on low-level 
 | **[Custom Memory Allocator](https://github.com/giopiro99/malloc)** | A custom dynamic memory allocator (`malloc`, `free`, `realloc`) interfacing directly with Linux kernel syscalls (`mmap`, `munmap`). | C, Kernel API, Memory Management |  WIP |
 | **[Inception of Things](https://github.com/giopiro99/iot/tree/giovanni)** | Kubernetes-lite (K3s/K3d) cluster with automated Vagrant provisioning, Argo CD (GitOps), and GitLab integration. | K3s, Argo CD, Vagrant, DevOps | WIP |
 
-## Hardware & Embedded Projects
+## Personal Projects
+### Hardware & Embedded Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Philosophers-Hardware](https://github.com/giopiro99/philosophers-hardware)** | Dining Philosophers problem solved physically on an ESP32 (dual-core). Preventions of deadlocks using FreeRTOS Mutexes. | C, FreeRTOS, ESP32, GPIO |
 | **[Mini Sensor QT](https://github.com/giopiro99/qt-project)** | Desktop GUI in modern C++ and Qt Framework for asynchronous monitoring of serial hardware simulation. | C++, Qt Framework |
 
+### Backend & Network Programming
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Server-irc-go](https://github.com/giopiro99/server_irc_go)** | Asynchronous TCP chat server demonstrating lock-free concurrency via channels and safe goroutine lifecycle management (graceful shutdown). | Go, TCP, Channels |
 ---
 
 ## 42 Cursus Journey
