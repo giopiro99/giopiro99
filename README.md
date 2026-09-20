@@ -22,6 +22,7 @@ Here is an overview of my current specialization projects focusing on low-level 
 |---------|-------------|------------|--------|
 | **[Custom Memory Allocator](https://github.com/giopiro99/malloc)** | A custom dynamic memory allocator (`malloc`, `free`, `realloc`) interfacing directly with Linux kernel syscalls (`mmap`, `munmap`). | C, Kernel API, Memory Management |  WIP |
 | **[Inception of Things](https://github.com/giopiro99/iot/tree/giovanni)** | Kubernetes-lite (K3s/K3d) cluster with automated Vagrant provisioning, Argo CD (GitOps), and GitLab integration. | K3s, Argo CD, Vagrant, DevOps | WIP |
+| **[Libasm](https://github.com/giopiro99/libasm)** | Implementation of certain system and non-system functions using assembly. | Assembly | WIP |
 
 ---
 
