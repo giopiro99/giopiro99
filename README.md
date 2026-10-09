@@ -1,6 +1,7 @@
 # Hi, I'm Giovanni Pirozzi (@giopiro99)
 
 Student at [42 Firenze](https://42firenze.it/) | RNCP Level 7 Candidate
+
 Mastery tracks: Kernel & Infrastructure
 Passionate about C/C++ programming, embedded systems, back-end, and infrastructures.
 
